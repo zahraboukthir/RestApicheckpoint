@@ -1,0 +1,4 @@
+/node_modules
+#nodemon et .env
+/node_modules
+/.env
